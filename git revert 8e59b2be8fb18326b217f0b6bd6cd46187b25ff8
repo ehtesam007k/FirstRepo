@@ -1,0 +1,80 @@
+[33mcommit 7cebc59246bd24684c59e25f68178393e3ac41bf[m[33m ([m[1;36mHEAD -> [m[1;32mSecond-Branch[m[33m, [m[1;31morigin/Second-Branch[m[33m)[m
+Author: ehtesam007k <abcemaani435@gmail.com>
+Date:   Fri Aug 4 10:53:55 2023 +0500
+
+    Removing TESTING.txt File
+
+[33mcommit 06757751b45f28e55fa17bad69ea639e7911e4aa[m
+Merge: eaec277 f8b05bc
+Author: ehtesam007k <abcemaani435@gmail.com>
+Date:   Mon Jul 17 15:52:42 2023 +0500
+
+    Merge branch 'Second-Branch' of github.com:ehtesam007k/FirstRepo into Second-Branch
+
+[33mcommit eaec277bafabc5b3ebb71a9fece0939652554137[m
+Author: ehtesam007k <abcemaani435@gmail.com>
+Date:   Mon Jul 17 15:51:50 2023 +0500
+
+    Deleting Test2.txt file
+
+[33mcommit f8b05bc3da95a7737d9b329b93a5e1c22aff9763[m
+Author: M-Ehtesam <139548893+ehtesam007k@users.noreply.github.com>
+Date:   Mon Jul 17 15:07:05 2023 +0500
+
+    Create TESTING.txt
+    
+    testing
+
+[33mcommit 2500b91761fda5168d4c57492fe97ba31d72128e[m
+Author: ehtesam007k <abcemaani435@gmail.com>
+Date:   Mon Jul 17 15:01:57 2023 +0500
+
+    Adding Check.txt
+
+[33mcommit a4fd43342ef4dce3a582c32912b846c6877a1e31[m
+Author: ehtesam007k <abcemaani435@gmail.com>
+Date:   Mon Jul 17 11:33:09 2023 +0500
+
+    Add File2.txt
+
+[33mcommit 6bedfb6f516e6b311ac37391ba2f40d0aa5d500f[m
+Author: ehtesam007k <139548893+ehtesam007k@users.noreply.github.com>
+Date:   Sun Jul 16 15:49:26 2023 +0500
+
+    Create Test2.txt
+    
+    text file in second branch
+
+[33mcommit 2c0e3a5912f5c0ea64a320cce9cfc533a8fa0504[m
+Merge: 8e59b2b 0523d8d
+Author: ehtesam007k <139548893+ehtesam007k@users.noreply.github.com>
+Date:   Sat Jul 15 23:14:07 2023 +0500
+
+    Merge branch 'main' into Second-Branch
+
+[33mcommit 0523d8d9f16a2b4de82ac352a3071c55fd6f7d9a[m
+Merge: 41fcdda 37f13ba
+Author: ehtesam007k <139548893+ehtesam007k@users.noreply.github.com>
+Date:   Sat Jul 15 22:56:43 2023 +0500
+
+    Merge pull request #1 from ehtesam007k/First-Branch
+    
+    Update README.md
+
+[33mcommit 8e59b2be8fb18326b217f0b6bd6cd46187b25ff8[m
+Author: ehtesam007k <139548893+ehtesam007k@users.noreply.github.com>
+Date:   Sat Jul 15 22:35:44 2023 +0500
+
+    Update README.md
+
+[33mcommit 37f13ba24206f4de9884c925ca0f5be6d2959497[m
+Author: ehtesam007k <139548893+ehtesam007k@users.noreply.github.com>
+Date:   Sat Jul 15 22:33:37 2023 +0500
+
+    Update README.md
+
+[33mcommit 41fcdda9ae81f43155e534f610ce6f123b191ebd[m
+Author: ehtesam007k <139548893+ehtesam007k@users.noreply.github.com>
+Date:   Sat Jul 15 22:31:45 2023 +0500
+
+    Initial commit
